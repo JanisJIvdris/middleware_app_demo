@@ -124,7 +124,7 @@ middleware_app_demo/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/my_repo
+   git clone https://github.com/JanisJIvdris/middleware_app_demo
    cd middleware_app_demo
    ```
 
